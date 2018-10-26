@@ -1,5 +1,5 @@
 # kube-setting
-Kubernetesの本格的な使用方法で構築する
+Kubernetesの本格的な使用方法で構築する<br>
 参考サイト：[KubernetesをVagrantで構築](https://qiita.com/MahoTakara/items/28cd766d0447140b7ae3)
 
 ## 構成図
